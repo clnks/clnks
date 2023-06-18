@@ -6,9 +6,7 @@
 🌱 I’m currently learning HTML & Java.<br><br>👨‍💻 All of my projects are available at: https://clnks.github.io/e-portfolio/coming_soon.html<br>
 
 
-- ❓ Ask me about anything related to content SEO  
-
-- ⚡ Fun fact: I love interior design, travelling and good food  
+⚡ Fun fact: I love interior design, travelling and good food  
 
 ## About me
 
@@ -18,9 +16,6 @@ I'm an aspiring web developer studying a Master's in Cyber Security. I have a lo
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
