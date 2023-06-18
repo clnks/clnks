@@ -37,7 +37,10 @@ I'm an aspiring web developer studying a Master's in Cyber Security. I have a lo
 <br/>  
 
 
-## My socials  
+## My socials 
+I'm always excited to connect with fellow developers and tech enthusiasts. If you have any questions, ideas, or just want to say hello, feel free to reach out to me via:
+
+
 <div align="center">
 <a href="https://github.com/clnks" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
