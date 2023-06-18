@@ -10,7 +10,7 @@
 
 ## About me
 
-I'm an aspiring web developer studying a Master's in Cyber Security. I have a love of technology, reading - whether's getting stuck into my kindle or getting  into the many stories I come across on Medium. When I'm not watching a series or film, I enjoy seeing new art exhibitions 
+I'm an aspiring web developer studying a Master's in Cyber Security. I have a love of technology, reading - whether's getting stuck into my kindle or getting  into the many stories I come across on Medium. When I'm not watching a series or film, I enjoy seeing new art exhibitions.
   
 
 
