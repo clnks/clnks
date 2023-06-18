@@ -3,7 +3,7 @@
 🔭 I’m currently working on [Bespoke Properties Ghana](https://bespokepropertiesghana.com/).  
  
 
-🌱 I’m currently learning HTML & Java.<br><br>👨‍💻 All of my projects are [coming soon](https://clnks.github.io/e-portfolio/coming_soon.html)<br>
+🌱 I’m currently learning HTML & Java.<br><br>👨‍💻 All of my projects are [coming soon](https://clnks.github.io/e-portfolio/coming_soon.html).<br>
 
 
 ⚡ Fun fact: I love interior design, travelling and good food.  
