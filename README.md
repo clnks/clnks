@@ -1,45 +1,44 @@
 # Hi, I'm Clarissa 👋
 
-🔭 I’m currently working on a mockup site for [Bespoke Properties Ghana](https://bespokepropertiesghana.com/).  
- 
+I'm a multi-hyphenate based in the UK — straddling the worlds of tech, privacy, and creative work. I care about building things that are thoughtful, well-designed, and actually useful.
 
-🌱 I’m currently learning HTML & Java.<br><br>👨‍💻 All of my projects are [coming soon](https://clnks.github.io/e-portfolio/coming_soon.html).<br>
+---
 
+### 🔭 What I'm working on
 
-⚡ Fun fact: I love interior design, travelling and good food.  
+- **[Privacy in Practice](https://github.com/clnks)** — a resource making data protection accessible and practical
+- **A SaaS tool** for people who don't fit neatly into one box *(more soon)*
 
-## About me
+---
 
-I'm an aspiring web developer studying a Master's in Cyber Security. I have a love of technology, reading - whether's getting stuck into my kindle or getting  into the many stories I come across on Medium. When I'm not watching a series or film, I enjoy seeing new art exhibitions.
-  
+### 🌱 What I'm learning
 
+- **GRC, data protection & privacy compliance** — working towards my BCS Practitioner in Data Protection and CIPP/E
+- **Cloud fundamentals** — currently studying for AZ-900
+- **MSc Cyber Security** — University of Essex *(Merit)*
 
+---
 
-## My Skill Set  
+### 👩🏾‍💻 About me
 
-### Frontend  
-<div align="center">  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-</div>
+I live at the intersection of technology and creativity. My background spans B2B account management, digital marketing, and cybersecurity — and I've built that into a focus on **privacy compliance and information governance**.
 
-</td><td valign="top" width="33%">
+Outside of that, I write, take photographs, obsess over branding, and think too much about interior design. I'm also quietly planning a Ghanaian-Caribbean restaurant — but that's a longer story.
 
+---
 
+### ✍️ I write too
 
-</td><td valign="top" width="33%">
+Over on Substack, I run **[The Fine Print](https://substack.com)** — cultural and social commentary with a bit of edge.
 
+---
 
+### 🤝 Let's connect
 
-</td></tr></table>  
+I'm always glad to meet people working in privacy, tech, or anything creative. You can find me at:
 
-<br/>  
-
-
-## My socials 
-I'm always excited to connect with fellow developers and tech enthusiasts. If you have any questions, ideas, or just want to say hello, feel free to reach out to me via:
-
+- 🌐 [withclarissa.com](https://withclarissa.com)
+- 📧 hello@withclarissa.com
 
 <div align="center">
 <a href="https://github.com/clnks" target="_blank">
