@@ -23,7 +23,7 @@ I'm a multi-hyphenate based in the UK — straddling the worlds of tech, privacy
 
 I live at the intersection of technology and creativity. My background spans B2B account management, digital marketing, and cybersecurity — and I've built that into a focus on **privacy compliance and information governance**.
 
-Outside of that, I write, take photographs, obsess over branding, and think too much about interior design. I'm also quietly planning a Ghanaian-Caribbean restaurant — but that's a longer story.
+Outside of that, I write, take photographs, obsess over branding, and think too much about interior design.
 
 ---
 
